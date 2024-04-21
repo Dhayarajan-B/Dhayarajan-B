@@ -1,1 +1,1 @@
-This is a account maintained by me,which is used to store and maintain the codes of the tasks done, for the internship of "Prodigy Infotech"
+I have built a stopwatch web application that has functionality of start lap reset resume by using HTML,CSS,and Javascript. It is a user friendly web.
